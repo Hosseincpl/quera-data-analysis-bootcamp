@@ -4,7 +4,7 @@ This repository contains resources and materials for the Data Analysis Boot Camp
 
 ## Process
 
-This boot camp is divided into 10 processes, each building on the previous one. These processes are:
+This boot camp is divided into 11 processes, each building on the previous one. These processes are:
 
 1. Statistical Analysis
 1. DataBase Management and SQL
@@ -15,6 +15,7 @@ This boot camp is divided into 10 processes, each building on the previous one. 
 1. Key Product Indicators
 1. Data Visualization
 1. Machine Learning
+1. Git
 1. Soft Skills
 
 ## Status
